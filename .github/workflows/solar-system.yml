@@ -1,6 +1,6 @@
 name: unit-testing
 on:
-  workflow_dispatch:
+  
   push:
     branches:
       - "practice/*"
